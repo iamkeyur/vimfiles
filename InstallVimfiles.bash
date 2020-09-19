@@ -1,1 +1,0 @@
-ln -sd vimfiles ~/.vim
